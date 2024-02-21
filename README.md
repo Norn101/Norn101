@@ -24,7 +24,7 @@ Her er nogle af mine projekter, du kan udforske:
 - [Projekt 3: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
 
 Du kan også finde mig på Kaggle, hvor jeg deltager i datavidenskabskonkurrencer og offentliggør mine projekter:
-[Kaggle/marcnorn](https://www.kaggle.com/marcnorn)
+[kaggle/](https://www.kaggle.com/)
 
 
 ## Hvad jeg leder efter

@@ -10,10 +10,10 @@ Jeg er en motiveret jobsøgende med interesse inden for data science. Jeg har en
 
 ## Mine Færdigheder
 
-- **Programmeringssprog:** Python, Java, C#
-- **Webudvikling:** HTML, CSS, JavaScript
-- **Data Science Værktøjer:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- **Database:** SQL, MongoDB
+- :computer: **Programmeringssprog:** `Python` `Java` `C#`
+- 🌐 **Webudvikling:** `HTML` `CSS` `JavaScript`
+- 🧠 **Data Science Værktøjer:** `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
+- 💾 **Database:** `SQL` `MongoDB`
 
 ## Projekter
 
